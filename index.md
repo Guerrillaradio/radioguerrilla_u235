@@ -22,6 +22,3 @@ href="https://archive.org/details/canserbero-enfermo-en-vivo-desde-hermosillo"><
 href="https://archive.org/details/la-subversion-socratica-socrates-subersivo"><div><font color="#ff1700">Socrates</font></div><div></div><div><font color="#ff1700"> </font><font color="#ff2d00"> </font></div></a>
 
 
-<dl>>dd><dl>>dd><dl>>dd><dl>>dd><dl>>dd><dl>>dd><dl>>dd><dl>>dd><dl>>dd><dl>>dd><dl>>dd><dl>>dd><dl>>dd>  
-铀
-</dd>dl></dd>dl></dd>dl></dd>dl></dd>dl></dd>dl></dd>dl></dd>dl></dd>dl></dd>dl></dd>dl></dd>dl></dd>dl></dl>
