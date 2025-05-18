@@ -23,5 +23,3 @@ href="https://archive.org/details/la-subversion-socratica-socrates-subersivo"><d
 
 
 
-
-<p align="justify"> 铀 </p>
