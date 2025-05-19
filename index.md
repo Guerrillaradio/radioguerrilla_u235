@@ -22,5 +22,6 @@ href="https://archive.org/details/canserbero-enfermo-en-vivo-desde-hermosillo"><
 href="https://archive.org/details/la-subversion-socratica-socrates-subersivo"><div><font color="#ff1700">Socrates</font></div><div></div><div><font color="#ff1700"> </font><font color="#ff2d00"> </font></div></a>
 
 <p align="right">
-<a href="https://guerrillaradio.github.io/doble_rendija/"><div><font color="#fff300">铀</font></div><div></div><div><font color="#fff300"> </font><font color="#fff300"> </font></div>
+<a
+href="https://guerrillaradio.github.io/doble_rendija/"><div><font color="#ff1700">Canserbero</font></div><div></div><div><font color="#ff1700"> </font><font color="#ff2d00"> </font></div></a>
 
