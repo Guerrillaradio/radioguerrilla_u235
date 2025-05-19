@@ -23,5 +23,5 @@ href="https://archive.org/details/la-subversion-socratica-socrates-subersivo"><d
 
 <p align="right">
 <a
-href="https://guerrillaradio.github.io/doble_rendija/"><div><font color="#ff1700">Canserbero</font></div><div></div><div><font color="#ff1700"> </font><font color="#ff2d00"> </font></div></a>
+href="https://guerrillaradio.github.io/doble_rendija/"><div><font color="#ff1700">铀</font></div><div></div><div><font color="#ff1700"> </font><font color="#ff2d00"> </font></div></a>
 
