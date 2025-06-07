@@ -3,7 +3,7 @@
           
                                     
 <p>
-<p><mark style="background-color: lightblue">>RADIO ONLINESS</mark> <a href="http://giss.tv:8001/guerrillaradio.ogg">opcion 1</a>  <a href="https://guerrillaradio.github.io/guerrillaradio/">opcion 2</a>
+<p><mark style="background-color: lightblue">RADIO ONLINESS</mark> <a href="http://giss.tv:8001/guerrillaradio.ogg">opcion 1</a>  <a href="https://guerrillaradio.github.io/guerrillaradio/">opcion 2</a>
 <p>107.7 FM  
 <p>
 <p>
