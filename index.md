@@ -24,9 +24,3 @@ href="https://archive.org/details/la-subversion-socratica-socrates-subersivo"><d
 <p align="right">
 <a
 href="https://guerrillaradio.github.io/doble_rendija/"><div><font color="#ff1700">铀</font></div><div></div><div><font color="#ff1700"> </font><font color="#ff2d00"> </font></div></a>
-
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
