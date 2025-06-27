@@ -7,7 +7,7 @@
 <p>107.7 FM  
 <p>
 <p>
-<div><font color="#ff1700">REFERENTES</font></div><div></div><div><font color="#ff1700"> </font><font color="#00ff00"> </font></div>
+<div><font color="#ff1700"></font></div><div></div><div><font color="#ff1700"> </font><font color="#00ff00"> </font></div>
 <a href="https://omegalfa.es/downloadfile.php?file=libros/para-una-guerrilla-semiologica.pdf"><div><font color="#ff1700">Umberto Eco - Para una Guerrilla Semiológica</font></div><div></div><div><font color="#ff1700"> </font><font color="#00ff00"> </font></div></a>
 <div><font color="#ff1700"></font></div><div></div><div><font color="#ff1700"> </font><font color="#00ff00"> </font></div>
 <a href="https://annas-archive.org/md5/cbd7ef9269c23c58e1c55f7258a304cc"><div><font color="#ff1700">Jean Baudrillard - Simulacra & Simulation</font></div><div></div><div><font color="#ff1700"> </font><font color="#00ff00"> </font></div></a>
